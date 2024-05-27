@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayush Chaurasiya
-- 👀 I’m interested in making and Games and Website
-- 🌱 I’m currently learning Web And GAme Development
-- 💞️ I’m looking to collaborate to NONE ^_^
+- 👀 I’m interested in making Games and Website
+- 🌱 I’m currently learning Web And Game Development
 - 📫 How to reach me ayushchaurasiya.080@gamil.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to code ❤️
